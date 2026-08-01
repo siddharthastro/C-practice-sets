@@ -11,7 +11,7 @@ int main()
     cout << string(delta, 'X') << endl;
     delta++;
     }
-
+ return 0;
 
     
 
