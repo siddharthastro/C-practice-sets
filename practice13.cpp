@@ -1,3 +1,4 @@
+// Implicit conversion and promotion of char to int and then to bool
 #include <iostream>
 using namespace  std;
 int main(){
