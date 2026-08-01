@@ -16,4 +16,5 @@ int main() {
     cin >> lastName;
     fullname = firstName + space + Initials + dot + space + lastName;
     cout << "Your full name is: " << fullname << endl;
+    return 0;
 }
