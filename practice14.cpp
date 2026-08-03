@@ -13,4 +13,5 @@ int main(){
     cout << "Type of z" << " is " << typeid(z).name() << endl;
     cout << "Type of f" << " is " << typeid(f).name() << endl;
     cout << "Type of d" << " is " << typeid(d).name() << endl;
+    return 0;
 }
