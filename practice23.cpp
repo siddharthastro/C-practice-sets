@@ -16,5 +16,5 @@ int main()
                     case 6:cout << "Friday" <<endl;
                     case 7:cout << "Saturday" <<endl;
                    }
-
+return 0;
 }
